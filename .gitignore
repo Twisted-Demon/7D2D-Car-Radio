@@ -25,6 +25,8 @@
 
 #Unity
 **/Resources/**/*.unity3d
+*.dll
+*.pdb
 
 *.suo
 *.user
